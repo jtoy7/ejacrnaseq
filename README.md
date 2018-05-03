@@ -1,2 +1,1 @@
-git bash test2
-
+WSL Test2
